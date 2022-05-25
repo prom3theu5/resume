@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+<p>
+  <h1 align="center"><b>Makes You Feel Software Again.</h1>
+</p>
 
-You can use the [editor on GitHub](https://github.com/prom3theu5/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<a href="https://prom3theu5.github.io/resume/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Resume" /></a>&nbsp;
+<a href="https://twitter.com/prom3theu5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/davidsekula/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img alt="Bearded Guy" border="0" height="236" src="https://prom3theu5.github.io/resume/img/me-smaller.jpg" title="Some Bearded Guy" width="400" />
+<br/>
 
-### Markdown
+<p align="center">Find me on Twitter <a href="http://twitter.com/prom3theu5">@prom3theu5</a>. Pronouns are he/him.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</p>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prom3theu5/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![My stats](https://github-readme-stats.vercel.app/api?username=prom3theu5&show_icons=true&theme=nightowl)
