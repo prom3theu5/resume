@@ -16,3 +16,14 @@
 </p>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=prom3theu5&show_icons=true&theme=nightowl)
+
+## Some fun facts:
+
+✨ I have over 20 years' experience as a web mobile and desktop developer, specializing in microservice based - scalable solutions.
+
+✨ I have quite a bit of experience in applied ML.
+
+✨ I spend a lot of time working on DevOps and GitOps solutions (Shoutout to Pulumi!)
+
+✨ I live in the North East of England (UK), but am originally from Manchester England.
+
