@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/davidsekula/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
 
-<img alt="Bearded Guy" border="0" height="236" src="https://prom3theu5.github.io/resume/img/me-smaller.jpg" title="Some Bearded Guy" width="400" />
+<img alt="Bearded Guy" border="0" height="236" src="https://prom3theu5.github.io/resume/img/me-smaller.jpg" title="Some Bearded Guy" width="250" />
 <br/>
 
 <p align="center">Find me on Twitter <a href="http://twitter.com/prom3theu5">@prom3theu5</a>. Pronouns are he/him.</p>
